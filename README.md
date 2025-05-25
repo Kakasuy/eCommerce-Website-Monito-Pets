@@ -1,5 +1,7 @@
 # eCommerce-Website-Monito-Pets
 
+- Tech Stack: Pug, SCSS HTML5, CSS3, Responsive layout
+  
 *Slice a simple homepage layout for the Pet Sales Website*
 - Convert a simple homepage design (provided in Figma) into a clean and responsive HTML/CSS layout for a pet sales website. The layout should reflect the basic structure including banner, product listings, navigation, and footer. Focus on semantic HTML5 and maintain a well-organized CSS structure for easy maintenance.
 
