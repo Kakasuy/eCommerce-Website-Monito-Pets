@@ -9,6 +9,7 @@
 ![image](https://github.com/user-attachments/assets/5ba93491-42a9-4c1e-b649-a99b8e4a757b)
 
 
+
 - Responsive for Mobile:
 
 ![image](https://github.com/user-attachments/assets/0fa38bd1-8313-4e1c-a959-0d5d95adc6b7)
@@ -18,11 +19,15 @@
 *Convert Homepage to PUG/SCSS and Build Product Pages* 
 - Convert the current homepage from HTML5/CSS3 to PUG and SCSS. Build two new pages: Product Listing and Product Detail using PUG/SCSS. Ensure mobile responsiveness and clean, modular code structure. Follow best practices for reusability and maintainability.
 
+
+
 - Product Listing
   
 ![image](https://github.com/user-attachments/assets/9be3a624-1837-46eb-b59b-7c3e27931d92)
 ![image](https://github.com/user-attachments/assets/0057babd-07a1-4009-a200-b90c5cf29752)
 ![image](https://github.com/user-attachments/assets/df4d439e-d90c-4942-b6f4-c4faeb52028d)
+
+
 
 - Product Detail
 
